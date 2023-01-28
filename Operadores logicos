@@ -1,0 +1,10 @@
+var edadDavid, edadErick, yearErick, yearDavid;
+edadDavid = 18;
+edadErick = 22;
+
+var mayorErick = edadErick > edadDavid; /*Meyor que */
+console.log(mayorErick);
+var menorDavid = edadDavid < edadErick;/*Menor que */
+console.log(menorDavid);
+var igualad = edadDavid == edadErick;/*Igual que */
+console.log(igualad);
