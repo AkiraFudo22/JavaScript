@@ -1,0 +1,12 @@
+Typeof es para saber que tipo de variable es la que se esta llmando
+
+
+var edadDavid, edadErick, yearErick, yearDavid;
+edadDavid = 18;
+edadErick = 22;
+yearErick='2001';
+yearDavid ='n'
+console.log(typeof edadDavid);
+console.log(typeof edadErick);
+console.log(typeof yearDavid);
+console.log(typeof yearErick);
