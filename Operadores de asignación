@@ -1,0 +1,14 @@
+//=
+var a = 5;
+var b = 18;
+
+a += b;
+console.log(a);
+a = a + b;
+console.log(a);
+
+a -=b;
+a *= b;//devuelve la multiplicacion
+a /=b;//debuelva la divicion
+a %= b;
+var c = a % b;//Devuelve el residuo
