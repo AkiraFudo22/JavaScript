@@ -1,0 +1,25 @@
+Tipos de datos primitivos
+
+1.- Numericos: enteros, decimales y de coma flotante
+2.-String: Secuencia de caracteres, tambien llamados texto
+3.-Boolean: Datos logiscos true o flase
+4.-Undefined: Tipos de datos indefinidos
+5.-Null: Datos que no existen, llamados datos nulos
+
+
+/*Esta es una variable string */
+var primerNombre = 'Erick';
+/*Esto es para imprimir en la terminal*/
+console.log(primerNombre);
+/* Variables numericas entera y decimal */
+var edad = 22;
+var sueldo= 1800.99;
+console.log(edad);
+/*Varoables booleans */
+var tieneTrabajo = true;
+console.log(tieneTrabajo);
+var puestoDeTrabajo;
+console.log(puestoDeTrabajo);
+/*Variable nula */
+puestoDeTrabajo = null;
+console.log(puestoDeTrabajo);
