@@ -1,0 +1,10 @@
+/*Esto va en el head*/
+ <script src="app.js">
+        </script>
+O
+
+ <script>
+        
+console.log("Hola a todos");
+        
+    </script>
