@@ -1,0 +1,16 @@
+//Operadores matematicos (+, -, *, /)
+var edadDavir, edadErick, yearErick, yearDavid;
+edadDavid = 18;
+edadErick = 22;
+
+var diferenciaEdad = edadDavid - edadErick;
+console.log(diferenciaEdad);
+var sumaDeEdades= edadDavid + edadErick;
+console.log(sumaDeEdades);
+var yearActual = 2023;
+yearErick = yearActual - edadErick;
+console.log(yearErick);
+yearDavid = yearActual - edadDavid;
+console.log(yearDavid);
+console.log(yearActual * 5);
+console.log(yearActual / 2);
