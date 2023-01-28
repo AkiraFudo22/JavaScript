@@ -1,0 +1,12 @@
+/*Conversión*/
+var nombre, edad, sexo, esSoltero;
+primerNombre = 'Erick';
+edad = 22;
+sexo = 'M';
+esSoltero = true;
+console.log("El nombre es: " + primerNombre + " Y su edad es: " + (edad + 1) + " ¿Es soltero? " + esSoltero);
+
+
+/*Mutación */
+edad = 'veintiuno';
+console.log(edad);
