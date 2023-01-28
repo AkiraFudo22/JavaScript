@@ -1,0 +1,16 @@
+//++ Incremento
+//-- Decremento
+
+var edadDavid = 18;
+var edadErick = 22;
+ 
+++ edadErick;
+console.log(edadErick);
+-- edadDavid;
+console.log(edadDavid);
+edadErick +=10;
+console.log(edadErick);
+edadDavid -=7;
+console.log(edadDavid);
+console.log(++edadErick);
+console.log(--edadDavid);
