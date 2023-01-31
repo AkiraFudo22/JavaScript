@@ -1,0 +1,10 @@
+var nombre = "Erick";
+var esdadoCivil = "Soltero";
+
+if(esdadoCivil === "Casado"){
+    //si es verdad la condicion
+    console.log(nombre + " esta casado");
+}else{
+    //Si es falso
+    console.log(nombre +" esta soltero")
+}
